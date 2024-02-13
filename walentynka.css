@@ -37,7 +37,7 @@ section img{
     animation-name:grow;
     animation-iteration-count:infinite;
     animation-duration: 2.5s;   
-    width:300px;
+    width:200px;
     position: absolute;
     z-index: 7;
     border-radius: 50%;
@@ -46,40 +46,40 @@ section img{
 }
 #serce1{
     color:rgb(78, 0, 0);
-    font-size:800px;    
+    font-size:600px;    
     position: absolute;
     z-index: 1;
 }
 #serce2{
     color:rgb(99, 0, 0);
-    font-size:750px;
+    font-size:550px;
     position: absolute;
     z-index: 2;
 }
 #serce3{
     color:rgb(141, 0, 0);
-    font-size:700px;
+    font-size:500px;
     position: absolute;
     z-index: 3;
 
 }
 #serce4{
     color:rgb(196, 0, 0);
-    font-size:650px;
+    font-size:450px;
     position: absolute;
     z-index: 4;
 
 }
 #serce5{
     color:rgb(250, 1, 1);
-    font-size:600px;
+    font-size:400px;
     position: absolute;
     z-index: 5;
 
 }
 #serce6{
     color:rgb(248, 58, 58);
-    font-size:550px;
+    font-size:350px;
     position: absolute;
     z-index: 6;
 }
